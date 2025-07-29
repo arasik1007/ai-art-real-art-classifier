@@ -1,5 +1,5 @@
 flask
-tensorflow-gpu
+tensorflow
 pillow
 numpy
 gunicorn
